@@ -1,1 +1,1 @@
-# Clone do site TESLA apra pratica de front end
+# Clone do site TESLA para prática de Front-end
